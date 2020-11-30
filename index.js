@@ -10,4 +10,4 @@ client.on('message', message => {
     console.log(message.content);
 });
 
-client.login('NzgyOTQ1MjE4Njc2MjYwODc0.X8Tkjg.2F3n0RpJIGvROsG5s3uPSUx6IEo);
+client.login('your to token');
